@@ -7,7 +7,9 @@ output:
 # Sparse matrix in C++ -- Matriz esparsa em C
 
 Trabalho final do curso de estrutura de dados do Laboratório Nacional de Computação Científica.
+
 Professor: Antônio Tadeu A. Gomes
+
 Data: Março de 2008
 
 
